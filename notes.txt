@@ -10,7 +10,6 @@ Contains Scientific Computational Packages
 -->
 
 
-
 References:
 https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/ch04.html#numpy
 http://www.numpy.org/
