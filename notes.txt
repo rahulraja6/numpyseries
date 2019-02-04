@@ -7,7 +7,6 @@ Contains Scientific Computational Packages
 --> Unlike list numpy has fixed size on creation. Changing the size will create a new ndarray and delete the old one.
 -->The elements in a NumPy array will be the same size in memory(homogeneous). The exception: one can have arrays of (Python, including NumPy) objects, thereby allowing for arrays of different sized elements.
 -->Mathematical functions for fast operations on entire arrays of data without having to write loops.
--->
 
 
 References:
