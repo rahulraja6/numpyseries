@@ -1,0 +1,18 @@
+Numpy notes
+
+Day 1:
+NumPy, short for Numerical Python
+Contains Scientific Computational Packages
+--> ndarray multidimensional array of homogeneous datatype
+--> Unlike list numpy has fixed size on creation. Changing the size will create a new ndarray and delete the old one.
+-->The elements in a NumPy array will be the same size in memory(homogeneous). The exception: one can have arrays of (Python, including NumPy) objects, thereby allowing for arrays of different sized elements.
+-->Mathematical functions for fast operations on entire arrays of data without having to write loops.
+-->
+
+
+
+References:
+https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/ch04.html#numpy
+http://www.numpy.org/
+https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/
+https://www.python-course.eu/numpy.php
